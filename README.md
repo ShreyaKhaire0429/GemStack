@@ -34,4 +34,5 @@ A powerful conversational chatbot built using **Gemini API**, designed to provid
 1. Clone this repository:
 
 cd gemini-chatbot https://github.com/ShreyaKhaire0429/GemStack.git
-cd gemini-clo
+
+cd GemStack-main
