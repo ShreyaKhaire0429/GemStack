@@ -32,7 +32,6 @@ A powerful conversational chatbot built using **Gemini API**, designed to provid
 ## ⚙️ Setup Instructions
 
 1. Clone this repository:
-   ```bash
-   git clone git clone https://github.com/your-username/gemini-chatbot.git
+
 cd gemini-chatbot https://github.com/ShreyaKhaire0429/GemStack.git
 cd gemini-clo
