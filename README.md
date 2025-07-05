@@ -16,7 +16,10 @@ A powerful conversational chatbot built using **Gemini API**, designed to provid
 
 ## 📷 Demo
 
-![Demo Screenshot](./assets/demo.png) 
+![Demo Screenshot]
+![gem1](https://github.com/user-attachments/assets/a09f57a3-7d23-4e44-bfd4-cc3076446616)
+![gem2](https://github.com/user-attachments/assets/133de6c9-522a-42a2-bec7-51f6d1309056)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
